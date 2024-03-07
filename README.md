@@ -24,7 +24,9 @@ Summary: I am Phs studenty with focused on applying quantum artificial intellige
 ## My programming work
 
 - [Repository about Pytorch ](https://gubiogl.github.io/Aprendendo_pytorch/)
+
   In this repository there are some introductory steps with step-by-step instructions on how to program a neural network for regression and classification problems, using CPU and GPU.
+  
 - ;;;;
 - 
 
