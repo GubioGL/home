@@ -1,6 +1,5 @@
 
-## [About Me](https://gubiogl.github.io/home/About-me.html)
-[![Lattes Badge](https://img.shields.io/badge/-Lattes-blue)](http://lattes.cnpq.br/5309772213422223)
+## [About me](https://gubiogl.github.io/home/About-me.html)
 
 I am Phd studenty with focused on applying quantum and classical artificial intelligence to solve optimization problems and differential equations.
 
