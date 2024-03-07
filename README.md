@@ -31,9 +31,4 @@ Summary: I am Phs studenty with focused on applying quantum artificial intellige
 - 
 
 
-### Bachelor's in Physics
-
-- UEPB, Brasil
-- Title: Quintessence model for Dark Energy
-
 - 🔗 [Repositorio sobre o pytorch](https://gubiogl.github.io/Aprendendo_pytorch/)
