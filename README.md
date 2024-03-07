@@ -23,4 +23,11 @@ Summary: I am Phs studenty with focused on applying quantum artificial intellige
   In this repository there are some introductory steps with step-by-step instructions on how to program a neural network for regression and classification problems, using CPU and GPU.
   
 - ...
+  
+    
+## Contact
+-📍 UFSCar, São Carlos, SP, Brasil.</p>
+- 📧 Email: gubiojogo@hotmail.com</p>
+- 🔗 <a href="https://www.linkedin.com/in/gubio-gomes-de-lima-a99973106/" target="_blank">Linkedin</a></p>
+- 🔗 <a href="https://github.com/GubioGL/" target="_blank">GitHub Portfolio</a></p>
 
