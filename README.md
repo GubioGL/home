@@ -26,8 +26,8 @@ I am Phd studenty with focused on applying quantum and classical artificial inte
   
     
 ## Contact
--📍 UFSCar, São Carlos, SP, Brasil.</p>
-- 📧 Email: gubiojogo@hotmail.com</p>
-- 🔗 <a href="https://www.linkedin.com/in/gubio-gomes-de-lima-a99973106/" target="_blank">Linkedin</a></p>
-- 🔗 <a href="https://github.com/GubioGL/" target="_blank">GitHub Portfolio</a></p>
+- 📍UFSCar, São Carlos, SP, Brasil.
+- 📧 Email: gubiojogo@hotmail.com
+- 🔗 [Linkedin](https://www.linkedin.com/in/gubio-gomes-de-lima-a99973106/)
+- 🔗 [GitHub Portfolio](https://github.com/GubioGL/)
 
