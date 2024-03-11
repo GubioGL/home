@@ -22,7 +22,9 @@ I am Phd studenty with focused on applying quantum and classical artificial inte
 
   In this repository there are some introductory steps with step-by-step instructions on how to program a neural network for regression and classification problems, using CPU and GPU.
   
-- ...
+- [Learning Machine Learning](https://gubiogl.github.io/Phd_ML/)
+
+  This repository is dedicated to my study of Machine Learning.
   
 
 
