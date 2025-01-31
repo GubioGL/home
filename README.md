@@ -12,7 +12,7 @@ I am Phd studenty with focused on applying quantum and classical artificial inte
 
 ## Programming Language
 
-- 🐍 Python (+3 years)
+- 🐍 Python (+5 years)
 - 🖋️ C++ (~1 year)
 - ☕ Java (~6 months)
 
