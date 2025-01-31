@@ -26,6 +26,13 @@ I am Phd studenty with focused on applying quantum and classical artificial inte
 
   This repository is dedicated to my study of Machine Learning.
   
+- [Q-BASIC](https://github.com/GubioGL/Q-BASIC)
+
+  This repository contains my own programming language for quantum computation, quantum algorithm and quantum optics simulation make in Python.
+  
+- [Feixes-pacialmente-coerentes](https://github.com/GubioGL/Q-BASIC)
+
+  This repository is a series of Jupyter notebooks dedicated to teaching how to simulate Partially Coherent Beam in Python.
 
 
 ## Contact
